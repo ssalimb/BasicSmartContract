@@ -18,8 +18,10 @@
 	step 1: npm i node@lts
 	step 2: node init
 2. Install the following packages as follows (look dependencies)
+![alt text](https://github.com/Dinslinger90/BasicSmartContract/blob/master/readme%20images/package.json.jpeg)
  
-3. Now your working folder should be looking like this (If you can specify paths easily, then you can follow your own folder path structure.) .. Note:- [don't add gits folder!!!]
+3. Now your working folder should be looking like this (If you can specify paths easily, then you can follow your own folder path structure.) **Note:-**  don't add gits folder!!!
+![alt text](https://github.com/Dinslinger90/BasicSmartContract/blob/master/readme%20images/fileexp.jpeg)
  
 4. Well that is all, node_modules folder will be not here in my repository (npm package gets it for you)... Take a look into the project. Detailed comments are provided for clear understanding before each piece of code. You can do it.
 
