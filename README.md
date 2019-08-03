@@ -7,10 +7,10 @@
 	
 ## Whats in there anyway?
 
-	1. Smart contract solidity code.
-	2. Smart contract compiling using solc codes.
-	3. uint testing with Mocha + Chai. [Here we deploy in local network using ganache-cli].
-	4. Deploying into Infura / local network code is under progress.....(will be uploaded shortly).
+- [x] Smart contract solidity code.
+- [x] Smart contract compiling using solc codes.
+- [x] uint testing with Mocha + Chai. [Here we deploy in local network using ganache-cli].
+- [ ] Deploying into Infura / local network code is under progress.....(will be uploaded shortly).
 	
 ## Prerequisite:
 
@@ -25,13 +25,15 @@
 
 ## Whats next?
 
-	Very detailed project on smart contract involving 
-	1. CryptoKitties/ CryptoZombies.
-	2. Kickstarter.com campaign releated project is on the way. 
-	I'll be uploading detailed documentation for that, so that you don't get lost in code. Don't hesitate to contact. Looking forward.:+1:
+Very detailed project on smart contract involving 
+1. > CryptoKitties/ CryptoZombies.
+2. > Kickstarter.com campaign releated project is on the way. 
+
+I'll be uploading detailed documentation for that, so that you don't get lost in code. 
+Don't hesitate to contact. Looking forward.:+1:
 
 ## Contact me:
 
-	**email-id** : ndinesh.wings@gmail.com
-	**telegram group discussion** : @EthereumForever || https://t.me/EthereumForever
+- **email-id :** ndinesh.wings@gmail.com
+- **telegram group discussion :** @EthereumForever || https://t.me/EthereumForever
 
