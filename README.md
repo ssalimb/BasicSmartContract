@@ -1,4 +1,4 @@
-# Basic smart contract:
+# Basic Lottery smart contract:
 
 ## Description:
 
