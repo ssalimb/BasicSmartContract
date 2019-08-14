@@ -2,8 +2,9 @@
 
 ## Description:
 
-	This is a basic Lottery based smart contract which allows multiple users to bet certain amount of ether on a public pool. 
-	The winner of the Lottery will be chosen randomly by manager (account deployed the smart contract)and then all ethers collected will be then transferred to the winner's account.
+This is a basic Lottery based smart contract which allows multiple users to bet certain amount of ether on a public pool.
+The winner of the Lottery will be chosen randomly by manager (account deployed the smart contract)and then all ethers 
+collected will be then transferred to the winner's account.
 	
 ## Whats in there anyway?
 
