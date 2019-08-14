@@ -15,21 +15,21 @@
 ## Prerequisite:
 
 1. Be sure that you have installed node.js in your system (using git bash for windows is highly recommended).
-	step 1: npm i node@lts
-	step 2: node init
+- [x] step 1: npm i node@lts
+- [x] step 2: node init
 2. Install the following packages as follows (look dependencies)
 ![alt text](https://github.com/Dinslinger90/BasicSmartContract/blob/master/readme%20images/package.json.jpeg)
  
 3. Now your working folder should be looking like this (If you can specify paths easily, then you can follow your own folder path structure.) **Note:-**  don't add gits folder!!!
 ![alt text](https://github.com/Dinslinger90/BasicSmartContract/blob/master/readme%20images/fileexp.jpeg)
  
-4. Well that is all, node_modules folder will be not here in my repository (npm package gets it for you)... Take a look into the project. Detailed comments are provided for clear understanding before each piece of code. You can do it.
+4. Well that is all, node_modules folder will be not here in my repository (npm package gets it for you)... Take a look at the project. Detailed comments are provided for clear understanding before each piece of code.
 
 ## Whats next?
 
 Very detailed project on smart contract involving 
 1. > CryptoKitties/ CryptoZombies.
-2. > Kickstarter.com campaign releated project is on the way. 
+2. > Kickstarter.com campaign releated project is on the way (**added - ** https://github.com/Dinslinger90/EthereumCasts). 
 
 I'll be uploading detailed documentation for that, so that you don't get lost in code. 
 Don't hesitate to contact. Looking forward.:+1:
