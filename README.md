@@ -38,5 +38,6 @@ Don't hesitate to contact. Looking forward.:+1:
 ## Contact me:
 
 - **email-id :** ndinesh.wings@gmail.com
+- **linkedin :** www.linkedin.com/in/dineshn90
 - **telegram group discussion :** @EthereumForever || https://t.me/EthereumForever
 
